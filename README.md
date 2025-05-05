@@ -56,8 +56,8 @@ Ensure the following are installed:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/rizad-mohamed/MedPortal-Appointment-Booking-System
-cd MedPortal-Appointment-Booking-System
+git clone https://github.com/rizad-mohamed/medportal-virtual-wellbeing-hub
+cd medportal-virtual-wellbeing-hub
 ```
 
 ### ⏬ Installation
